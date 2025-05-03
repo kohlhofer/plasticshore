@@ -68,4 +68,17 @@ This project is open source and available for anyone to use and modify for educa
 ## Credits
 
 - All organization information based on publicly available sources
-- Design and development by [Alex](https://kohlhofer.com) 
+- Design and development by [Alex](https://kohlhofer.com)
+
+## GitHub Pages Deployment
+
+To deploy this site with GitHub Pages:
+
+1. Make sure your repository is public (or use GitHub Pro for private Pages).
+2. Push your code to GitHub.
+3. In your repository settings, go to the "Pages" section.
+4. Set the source branch to `main` and the folder to `/ (root)`.
+5. The `.nojekyll` file is included to ensure all files (including those in folders like `img/` and `js/`) are served correctly.
+6. Your site will be available at `https://<your-username>.github.io/<repo-name>/` after a few minutes.
+
+For custom domains, configure your DNS and add a `CNAME` file as needed. 

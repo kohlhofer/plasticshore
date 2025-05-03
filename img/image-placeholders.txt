@@ -1,0 +1,46 @@
+Required Images for PlasticShore Website:
+
+Header Images:
+- hero-bg.jpg - Hero image showing plastic pollution on a beach or ocean
+- cleanup-header.jpg - Beach cleanup image
+- advocacy-header.jpg - Policy/advocacy related image
+- research-header.jpg - Scientific research image
+- education-header.jpg - Education/outreach image
+- innovation-header.jpg - Innovation/technology image
+- action-header.jpg - Call to action image
+- about-header.jpg - About page header image
+
+Organization Logos:
+- ocean-conservancy-logo.png
+- ocean-cleanup-logo.png
+- surfrider-logo.png
+- 4ocean-logo.png
+- oceana-logo.png
+- greenpeace-logo.png
+- plastic-pollution-coalition-logo.png
+- break-free-from-plastic-logo.png
+- 5-gyres-logo.png
+- algalita-logo.png
+- noaa-logo.png
+- plastic-soup-logo.png
+- plastic-oceans-logo.png
+- earthecho-logo.png
+- mcs-logo.png
+- oceanic-global-logo.png
+- parley-logo.png
+- precious-plastic-logo.png
+- plastic-bank-logo.png
+- bubble-barrier-logo.png
+- emf-logo.png
+
+Note: 
+Add real images to this directory before deploying the site. Recommended image sizes:
+- Header images: 1920px × 1080px (16:9 ratio)
+- Logo images: 400px × 400px (square)
+
+For open source/free images of ocean plastic pollution, consider:
+- Unsplash.com
+- Pexels.com
+- Pixabay.com
+
+For organization logos, get them from the official websites or press kits of the organizations. 
